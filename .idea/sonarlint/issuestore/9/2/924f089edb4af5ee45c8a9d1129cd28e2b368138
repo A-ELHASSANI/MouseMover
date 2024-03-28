@@ -1,4 +1,12 @@
 
-0
-java:S1220""Move this file to a named package.
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï…‘8ªù ¬è1
+]
+java:S1220""Move this file to a named package.8Úë›¬è1J$5a7ac22e-b47f-4881-8194-3196dc2b607f
+r
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8æë›¬è1J$9bb630e3-6021-4b7a-a484-589968cb34d0
+t
+java:S1874"",Remove this use of "show"; it is deprecated.(»Ã¦ùøÿÿÿÿ8èë›¬è1J$5a0850ce-1641-4600-8248-4694778dad3a
+¦
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ö¾ùÿÿÿÿ8éë›¬è1J$6db80893-18ea-4c61-bd3c-43a4e6b86350
+`
+java:S2119,"Save and re-use this "Random".(¼İÅf8ëë›¬è1J$ef4b39e8-4e25-48a6-9f78-1cc24b1da9d1
