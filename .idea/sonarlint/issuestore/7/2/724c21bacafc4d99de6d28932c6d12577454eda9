@@ -1,0 +1,17 @@
+
+]
+java:S1220""Move this file to a named package.8ØÀÆ­è1J$735be364-237f-4f5c-a951-5c6492aae827
+u
+java:S1948"-Make "mouseThread" transient or serializable.(Ä­ÿıÿÿÿÿ8ãÀÆ­è1J$bd39e36d-b526-4817-9feb-5685cd8a668c
+r
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8æÀÆ­è1J$ea6e4e8f-7dff-49a0-9e12-5418011c284a
+t
+java:S1874%",Remove this use of "show"; it is deprecated.(»Ã¦ùøÿÿÿÿ8èÀÆ­è1J$84ff391f-71df-433b-8229-266c62083b01
+¦
+java:S2142G"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ö¾ùÿÿÿÿ8ëÀÆ­è1J$39787936-1460-40c6-8c76-7e2f1349da91
+`
+java:S2119@"Save and re-use this "Random".(¼İÅf8ìÀÆ­è1J$ca06ab11-37bc-4868-8f5a-d1034d0442b6
+d
+java:S1116M"Remove this empty statement.(ôŸìúÿÿÿÿ8îÀÆ­è1J$f05f5655-5663-4473-a2ac-543405d15db3
+d
+java:S1116T"Remove this empty statement.(ôŸìúÿÿÿÿ8îÀÆ­è1J$2fdcb877-7b4f-4c94-a20f-f7dabf2b3cd4
